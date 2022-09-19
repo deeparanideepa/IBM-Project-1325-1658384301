@@ -32,6 +32,9 @@ Analytics for Hospitals' Health-Care Data
 //LINK FOR APOORVA'S ASSIGNMENT 1
   https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fassign_1&action=view&mode=dashboard&subView=model00000183406fb54a_00000000
   
+//LINK FOR BHARATHI LEELA'S ASSIGNMENT 1
+https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAssignment&action=view&mode=dashboard&subView=model0000018354d3b84d_00000000
+  
 //LINK FOR BHOOMIKA'S ASSIGNMENT 1
   https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAssignment&action=view&mode=dashboard&subView=model000001835188cb80_00000000
   
