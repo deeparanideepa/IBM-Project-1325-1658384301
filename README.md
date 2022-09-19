@@ -38,3 +38,5 @@ https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2
 //LINK FOR BHOOMIKA'S ASSIGNMENT 1
   https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAssignment&action=view&mode=dashboard&subView=model000001835188cb80_00000000
   
+//BRAINSTORMING AND IDEA PRESENTATION 
+  https://app.mural.co/invitation/mural/mepcoschlenkengineeringcolle5470/1663580935051?sender=udbb69a2749cce29c86810712&key=95bfc0cc-4af1-4921-b2b8-5fcd0487e7ba
