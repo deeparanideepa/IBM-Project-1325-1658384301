@@ -37,3 +37,6 @@ https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2
   
 //BRAINSTORMING AND IDEA PRESENTATION 
   https://app.mural.co/invitation/mural/mepcoschlenkengineeringcolle5470/1663580935051?sender=udbb69a2749cce29c86810712&key=95bfc0cc-4af1-4921-b2b8-5fcd0487e7ba
+  
+ //LINK FOR APOORVA'S ASSIGNMENT 2  
+  https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAssignment2-Pharma_Analysis_Apoorva&action=view&mode=dashboard&subView=model0000018360f05a41_00000000
