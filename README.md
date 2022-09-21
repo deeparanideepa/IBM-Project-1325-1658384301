@@ -25,6 +25,10 @@ Analytics for Hospitals' Health-Care Data
 //LINK FOR EMPATHY-MAP
 
   https://app.mural.co/invitation/mural/mepcoschlenkengineeringcolle5470/1662914702027?sender=udbb69a2749cce29c86810712&key=f4437ee6-d509-4ca5-84c1-7ccbaf704a31
+    
+//BRAINSTORMING AND IDEA PRESENTATION 
+
+  https://app.mural.co/invitation/mural/mepcoschlenkengineeringcolle5470/1663580935051?sender=udbb69a2749cce29c86810712&key=95bfc0cc-4af1-4921-b2b8-5fcd0487e7ba
 
 //LINK FOR APOORVA'S ASSIGNMENT 1
   https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fassign_1&action=view&mode=dashboard&subView=model00000183406fb54a_00000000
@@ -34,9 +38,6 @@ https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2
   
 //LINK FOR BHOOMIKA'S ASSIGNMENT 1
   https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAssignment&action=view&mode=dashboard&subView=model000001835188cb80_00000000
-  
-//BRAINSTORMING AND IDEA PRESENTATION 
-  https://app.mural.co/invitation/mural/mepcoschlenkengineeringcolle5470/1663580935051?sender=udbb69a2749cce29c86810712&key=95bfc0cc-4af1-4921-b2b8-5fcd0487e7ba
   
  //LINK FOR APOORVA'S ASSIGNMENT 2  
   https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAssignment2-Pharma_Analysis_Apoorva&action=view&mode=dashboard&subView=model0000018360f05a41_00000000
