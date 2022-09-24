@@ -41,3 +41,6 @@ https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2
   
  //LINK FOR APOORVA'S ASSIGNMENT 2  
   https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAssignment2-Pharma_Analysis_Apoorva&action=view&mode=dashboard&subView=model0000018360fceb1a_00000000
+  
+//LINK FOR BHARATHI LEELA'S ASSIGNMENT 2
+https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fassignment%2B2&action=view&mode=dashboard&subView=model000001837079a97a_00000000
