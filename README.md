@@ -46,4 +46,4 @@ https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2
 https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fassignment%2B2&action=view&mode=dashboard&subView=model000001837058718f_00000000
 
 //LINK FOR BHOOMIKA'S ASSIGNMENT 2
-https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fibm_assign2_bhoomika&action=view&mode=dashboard&subView=model0000018378021f0d_00000000
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fibm_assign2_bhoomika&action=view&mode=dashboard&subView=model0000018378e27b8c_00000000
